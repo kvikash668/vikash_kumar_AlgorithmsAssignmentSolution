@@ -86,6 +86,13 @@ Stocks stocks;
 				System.out.println("Value not found");
 			break;
 		case 6:
+		System.out.println("Press 0 to exit");
+	     int	input =sc.nextInt();
+		if (input ==0) {
+				System.out.println("Exited successfully");
+		}else { System.out.println("Please enter right choice");
+		return false;}
+
 			return true;
 		default:
 			System.out.println("Invalid Input. Enter only from 1 to 6.");
