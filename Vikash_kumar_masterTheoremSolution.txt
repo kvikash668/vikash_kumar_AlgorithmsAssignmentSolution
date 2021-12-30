@@ -1,0 +1,16 @@
+Time complexity of the below functions in Θ form.
+a) T (n) = 3T (n/2) + n
+Ans:-T(n)= Θ(n^1.58)
+
+b) T (n) = 64T (n/8) − n^2(log n)
+Ans:- NA (Not apply)
+
+c) T (n) = 2nT (n/2) + n^n
+Ans:-NA (Not apply)
+
+d) T (n) = 3T (n/3) + n/2
+Ans:-T(n)= Θ(nlogn)
+
+e) .T (n) = 7T (n/3) + n^2
+Ans:-T(n)= Θ(n^2)
+ 
